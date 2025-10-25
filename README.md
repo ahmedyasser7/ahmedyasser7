@@ -72,16 +72,6 @@ Teaching programming fundamentals and problem-solving to aspiring developers
 
 ---
 
-## 💼 Experience
-
-### 👨‍🏫 Computer Science Instructor
-**Digital Egyptian Cubs Initiative (DECI)**  
-📅 **December 2024 - Present**
-
-Teaching programming fundamentals and problem-solving to aspiring developers
-
----
-
 ## 🏆 Competitive Programming
 
 <div align="center">
