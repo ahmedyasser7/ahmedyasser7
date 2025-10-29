@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ahmed Yasser Taha
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Backend+Developer+%7C+Django+Enthusiast;Competitive+Programmer+%7C+Problem+Solver;CS+Instructor+%7C+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Software+Developer;Backend+Developer+%7C+Django+Enthusiast;Competitive+Programmer+%7C+Problem+Solver;CS+Instructor+%7C+Lifelong+Learner" alt="Typing SVG" />
 </div>
 
 <div align="center">
